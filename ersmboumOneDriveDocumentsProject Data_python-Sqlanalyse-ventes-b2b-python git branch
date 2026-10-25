@@ -1,0 +1,19 @@
+[33mbb2ef1c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32m02_analyse_globale[m[33m)[m HEAD@{0}: checkout: moving from 02_analyse_globale to 02_analyse_globale
+[33mbb2ef1c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32m02_analyse_globale[m[33m)[m HEAD@{1}: checkout: moving from main to 02_analyse_globale
+[33m81d2b3c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/01-importation-et-nettoyage[m[33m, [m[1;32mmain[m[33m, [m[1;32m01-importation-et-nettoyage[m[33m)[m HEAD@{2}: checkout: moving from 02_analyse_globale to main
+[33mbb2ef1c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32m02_analyse_globale[m[33m)[m HEAD@{3}: commit: Feat : Construction des premiers graphiques de l'analyse globale
+[33m2fc92e4[m[33m ([m[1;31morigin/02_analyse_globale[m[33m)[m HEAD@{4}: commit: Feat : inndicateurs clés et tableau recapitulatif des indicateurs
+[33m81d2b3c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/01-importation-et-nettoyage[m[33m, [m[1;32mmain[m[33m, [m[1;32m01-importation-et-nettoyage[m[33m)[m HEAD@{5}: checkout: moving from 02_analyse_globale to 02_analyse_globale
+[33m81d2b3c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/01-importation-et-nettoyage[m[33m, [m[1;32mmain[m[33m, [m[1;32m01-importation-et-nettoyage[m[33m)[m HEAD@{6}: checkout: moving from 01-importation-et-nettoyage to 02_analyse_globale
+[33m81d2b3c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/01-importation-et-nettoyage[m[33m, [m[1;32mmain[m[33m, [m[1;32m01-importation-et-nettoyage[m[33m)[m HEAD@{7}: checkout: moving from main to 01-importation-et-nettoyage
+[33m81d2b3c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/01-importation-et-nettoyage[m[33m, [m[1;32mmain[m[33m, [m[1;32m01-importation-et-nettoyage[m[33m)[m HEAD@{8}: merge 01-importation-et-nettoyage: Fast-forward
+[33md9417ce[m[33m ([m[1;31morigin/structure-analyse[m[33m, [m[1;32mstructure-analyse[m[33m)[m HEAD@{9}: checkout: moving from 01-importation-et-nettoyage to main
+[33m81d2b3c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/01-importation-et-nettoyage[m[33m, [m[1;32mmain[m[33m, [m[1;32m01-importation-et-nettoyage[m[33m)[m HEAD@{10}: commit: feat : Nettoyage et mise en onformité
+[33ma2eaaea[m HEAD@{11}: checkout: moving from 01-importation-et-nettoyage to 01-importation-et-nettoyage
+[33ma2eaaea[m HEAD@{12}: commit: feat : EDA du fichier sales
+[33md9417ce[m[33m ([m[1;31morigin/structure-analyse[m[33m, [m[1;32mstructure-analyse[m[33m)[m HEAD@{13}: checkout: moving from main to 01-importation-et-nettoyage
+[33md9417ce[m[33m ([m[1;31morigin/structure-analyse[m[33m, [m[1;32mstructure-analyse[m[33m)[m HEAD@{14}: merge structure-analyse: Fast-forward
+[33m29f3a6f[m HEAD@{15}: checkout: moving from structure-analyse to main
+[33md9417ce[m[33m ([m[1;31morigin/structure-analyse[m[33m, [m[1;32mstructure-analyse[m[33m)[m HEAD@{16}: commit: feat : Initialisation de la struture du projet
+[33m29f3a6f[m HEAD@{17}: checkout: moving from main to structure-analyse
+[33m29f3a6f[m HEAD@{18}: clone: from github.com:Bartel138/analyse-ventes-b2b-python.git
